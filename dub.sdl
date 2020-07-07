@@ -1,0 +1,3 @@
+name "myproject"
+targetType "executable"
+dependency "hunt-framework" version="~>3.2.0"
